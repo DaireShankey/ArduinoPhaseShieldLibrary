@@ -1,6 +1,6 @@
 
 const int VPHASE_PIN = A1;
-const float referenceVoltage = 3.3;  // Use the 3.3V reference voltage of the Arduino
+const float referenceVoltage = 1.8;  // Use the 1.8V reference voltage of the Arduino
 const unsigned long duration = 5000;
 
 void setup() {
